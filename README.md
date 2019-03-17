@@ -35,7 +35,7 @@ If you need assistance, please reach out to this email with your questions and c
 Mary Dang  
 Github Repository link: <https://github.com/mkd454/RPS-Multiplayer>  
 Github page link: <https://mkd454.github.io/RPS-Multiplayer/>  
-Bootstrap Portfolio link: <https://mkd454.github.io/Bootstrap-Portfolio/>
+Portfolio link: <https://mkd454.github.io/Bootstrap-Portfolio/>
 
 ## Acknowledgments
 
