@@ -5,7 +5,7 @@ This is an app that allows two players to play Rock Paper Scissors against each 
 
 ## Demo
 <img src=''><br>
-[Click here to start](https://mkd454.github.io/GIPHY-API/)
+[Click here to start](https://mkd454.github.io/RPS-Multiplayer/)
 
 ## Getting Started 
 ````
